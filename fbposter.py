@@ -31,7 +31,7 @@ def main():
 
     # Path to geckodriver executable
     driver = webdriver.Chrome(
-        executable_path=r'C:\Users\ishra\OneDrive\Documents\fiverr\social-media-automation\chromedriver.exe')
+        executable_path=r'E:\freelance\social-media-automation\chromedriver.exe')
     driver.implicitly_wait(15)
 
     # Login to facebook

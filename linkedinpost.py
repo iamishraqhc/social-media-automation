@@ -5,8 +5,8 @@ from selenium import webdriver
 
 def main():
     # Your account user and password, path to image, links to groups and message
-    usr = "ishraq.h.c@gmail.com"
-    pwd = "myth2011"
+    usr = ""
+    pwd = ""
     title = ""
     message = ""
     image = ""

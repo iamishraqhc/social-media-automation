@@ -23,11 +23,11 @@ def main():
 
     # Path to geckodriver executable
     driver = webdriver.Chrome(
-        executable_path=r'C:\Users\ishra\OneDrive\Documents\fiverr\social-media-automation\chromedriver.exe')
+        executable_path=r'E:\freelance\social-media-automation\chromedriver.exe')
     driver.implicitly_wait(15)
 
     # Login to twitter
-    driver.get("https://twitter.com")
+    driver.get("https://twitter.com/")
     sleep(3)
     elem = driver.find_element_by_name("session[username_or_email]")
     elem.send_keys(usr)
