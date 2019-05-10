@@ -7,11 +7,7 @@ def main():
     # your account user and password, path to image, links to groups and message
     usr = ""
     pwd = ""
-    message = ["I Will Create Complete Custom Designed Wordpress Website. Please go to the following link https://www.fiverr.com/iamishraqhc/create-complete-custom-designed-wordpress-website?utm_campaign=gigs_show&utm_medium=shared&utm_source=copy_link&utm_term=boa7w",
-               "I Will Create An Ecommerce Website. Please go to the following link https://www.fiverr.com/iamishraqhc/create-an-ecommerce-website?utm_campaign=gigs_show&utm_medium=shared&utm_source=copy_link&utm_term=lkzpa",
-               "I Will Fix Any Wordpress Errors, Issues Or Problems. Please go to the following link https://www.fiverr.com/iamishraqhc/fix-any-wordpress-errors-issues-or-problems?utm_campaign=gigs_show&utm_medium=shared&utm_source=copy_link&utm_term=r9g8x",
-               "I Will Proofread And Edit Your Article In Less Than 24 Hours. Please go to the following link https://www.fiverr.com/iamishraqhc/proofread-and-edit-your-article-in-less-than-24-hours?utm_campaign=gigs_show&utm_medium=shared&utm_source=copy_link&utm_term=wdmyx",
-               "I Will Scrape, Extract, Mine Data From Any Web Into CSV And Excel. Please go to the following link https://www.fiverr.com/iamishraqhc/scrape-extract-mine-data-from-any-web-into-csv-and-excel?utm_campaign=gigs_show&utm_medium=shared&utm_source=copy_link&utm_term=y8y0q"]
+    message = ["Check out my profile if you need web scraping, data mining, website development, e-commerce development and many more. Click on the link to visit and checkout my profile https://www.fiverr.com/iamishraqhc"]
     image_path = ""
     group_links = ['https://www.facebook.com/groups/121968305178198/',
                    'https://www.facebook.com/groups/762886083799826/',
@@ -25,7 +21,9 @@ def main():
                    'https://www.facebook.com/groups/212851892476720/',
                    'https://www.facebook.com/groups/allfiverrhelp/',
                    'https://www.facebook.com/groups/1048698711880571/',
-                   'https://www.facebook.com/groups/455654264473214/']
+                   'https://www.facebook.com/groups/455654264473214/',
+                   'https://www.facebook.com/groups/PromoteYourBusinessGroup.MLM.InternetMarketing/',
+                   'https://www.facebook.com/groups/291614117853414/']
 
     # delete cache
     # profile = webdriver.FirefoxProfile()
